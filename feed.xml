@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HSK Book Audio</title>
+    <description>Full audio from HSK Standard Course textbooks for Chinese language learners. Each episode contains a complete textbook with chapter markers for easy navigation.</description>
+    <link>https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/</link>
+    <language>en</language>
+    <itunes:author>Jonathan Butler</itunes:author>
+    <itunes:summary>Full audio from HSK Standard Course textbooks for Chinese language learners. Each episode contains a complete textbook with chapter markers for easy navigation.</itunes:summary>
+    <itunes:image href="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/artwork/cover.png"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Jonathan Butler</itunes:name>
+    </itunes:owner>
+    <podcast:locked>no</podcast:locked>
+    <atom:link href="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/feed.xml" rel="self" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <item>
+      <title>HSK 4 上 full book audio | HSK standard course textbook level 4 book 1 #hsk4</title>
+      <description>HSK 4 上 full book audio | HSK standard course textbook level 4 book 1 #hsk4
+
+Timestamps:
+00:13 01. 简单的爱情
+06:35 02. 真正的朋友
+13:30 03. 经理对我印象不错
+19:46 04. 不要太着急赚钱
+25:59 05. 只买对的, 不买贵的
+32:09 06. 一分钱一分货
+38:24 07. 最好的医生是自己
+45:10 08. 生活中不缺少美
+51:43 09. 阳光总在风雨后
+
+Source: https://www.youtube.com/watch?v=fpMa1m3tm4A</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/hsk-4-shang/hsk-4-shang-chapters.m4a" length="64077170" type="audio/mp4"/>
+      <guid isPermaLink="false">hsk-4-shang</guid>
+      <pubDate>Mon, 31 Aug 2026 23:27:00 +0000</pubDate>
+      <itunes:title>HSK 4 上 full book audio | HSK standard course textbook level 4 book 1 #hsk4</itunes:title>
+      <itunes:summary>HSK 4 上 full book audio | HSK standard course textbook level 4 book 1 #hsk4
+
+Timestamps:
+00:13 01. 简单的爱情
+06:35 02. 真正的朋友
+13:30 03. 经理对我印象不错
+19:46 04. 不要太着急赚钱
+25:59 05. 只买对的, 不买贵的
+32:09 06. 一分钱一分货
+38:24 07. 最好的医生是自己
+45:10 08. 生活中不缺少美
+51:43 09. 阳光总在风雨后
+
+Source: https://www.youtube.com/watch?v=fpMa1m3tm4A</itunes:summary>
+      <itunes:duration>01:06:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/episodes/hsk-4-shang/chapters.json" type="application/json+chapters"/>
+      <!-- Source: https://www.youtube.com/watch?v=fpMa1m3tm4A -->
+    </item>
+  </channel>
+</rss>

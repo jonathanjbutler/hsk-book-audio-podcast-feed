@@ -36,9 +36,8 @@ echo "Video ID: $VIDEO_ID"
 # For HSK content, try to extract a meaningful slug
 SLUG=$(echo "$VIDEO_TITLE" | \
   tr '[:upper:]' '[:lower:]' | \
-  sed 's/[^a-z0-9\u4e00-\u9fff]/-/g' | \
+  python3 -c "import sys,re; print(re.sub(r'[^a-z0-9]', '-', sys.stdin.read().strip()).strip('-'))" | \
   sed 's/--*/-/g' | \
-  sed 's/^-//;s/-$//' | \
   cut -c1-50)
 
 # If slug is too generic, use video ID
@@ -88,14 +87,14 @@ parse_chapters() {
     
     # Match timestamps: MM:SS or HH:MM:SS at start of line
     if [[ "$line" =~ ^([0-9]+):([0-9]+):([0-9]+)[[:space:]]+(.*) ]]; then
-      hours="${BASH_REMATCH[1]}"
-      minutes="${BASH_REMATCH[2]}"
-      seconds="${BASH_REMATCH[3]}"
+      hours=$((10#${BASH_REMATCH[1]}))
+      minutes=$((10#${BASH_REMATCH[2]}))
+      seconds=$((10#${BASH_REMATCH[3]}))
       title="${BASH_REMATCH[4]}"
       total_seconds=$((hours * 3600 + minutes * 60 + seconds))
     elif [[ "$line" =~ ^([0-9]+):([0-9]+)[[:space:]]+(.*) ]]; then
-      minutes="${BASH_REMATCH[1]}"
-      seconds="${BASH_REMATCH[2]}"
+      minutes=$((10#${BASH_REMATCH[1]}))
+      seconds=$((10#${BASH_REMATCH[2]}))
       title="${BASH_REMATCH[3]}"
       total_seconds=$((minutes * 60 + seconds))
     else
