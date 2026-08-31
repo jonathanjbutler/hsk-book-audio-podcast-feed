@@ -1,0 +1,11 @@
+# Audio files (stored in GitHub Releases, not in repo)
+audio/*.m4a
+audio/*.mp3
+audio/*.webm
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.ffmeta
+*.tmp

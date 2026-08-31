@@ -1,0 +1,13 @@
+{
+  "title": "HSK Book Audio",
+  "description": "Full audio from HSK Standard Course textbooks for Chinese language learners. Each episode contains a complete textbook with chapter markers for easy navigation.",
+  "author": "Jonathan Butler",
+  "email": "",
+  "language": "en",
+  "category": "Education",
+  "subcategory": "Language Learning",
+  "image": "artwork/cover.png",
+  "link": "https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/",
+  "feed_url": "https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/feed.xml",
+  "explicit": false
+}
