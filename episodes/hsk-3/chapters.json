@@ -1,0 +1,85 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 44,
+      "title": "LESSON 1"
+    },
+    {
+      "startTime": 356,
+      "title": "LESSON 2"
+    },
+    {
+      "startTime": 675,
+      "title": "LESSON 3"
+    },
+    {
+      "startTime": 1006,
+      "title": "LESSON 4"
+    },
+    {
+      "startTime": 1347,
+      "title": "LESSON 5"
+    },
+    {
+      "startTime": 1666,
+      "title": "LESSON 6"
+    },
+    {
+      "startTime": 1971,
+      "title": "LESSON 7"
+    },
+    {
+      "startTime": 2266,
+      "title": "LESSON 8"
+    },
+    {
+      "startTime": 2588,
+      "title": "LESSON 9"
+    },
+    {
+      "startTime": 2903,
+      "title": "LESSON 10"
+    },
+    {
+      "startTime": 3222,
+      "title": "LESSON 11"
+    },
+    {
+      "startTime": 3546,
+      "title": "LESSON 12"
+    },
+    {
+      "startTime": 3855,
+      "title": "LESSON 13"
+    },
+    {
+      "startTime": 4186,
+      "title": "LESSON 14"
+    },
+    {
+      "startTime": 4538,
+      "title": "LESSON 15"
+    },
+    {
+      "startTime": 4909,
+      "title": "LESSON 16"
+    },
+    {
+      "startTime": 5247,
+      "title": "LESSON 17"
+    },
+    {
+      "startTime": 5598,
+      "title": "LESSON 18"
+    },
+    {
+      "startTime": 5922,
+      "title": "LESSON 19"
+    },
+    {
+      "startTime": 6259,
+      "title": "LESSON 20"
+    }
+  ]
+}

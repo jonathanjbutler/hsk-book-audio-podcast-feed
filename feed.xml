@@ -127,6 +127,69 @@ Source: https://www.youtube.com/watch?v=3nW_BFZZT_I</itunes:summary>
       <!-- Source: https://www.youtube.com/watch?v=3nW_BFZZT_I -->
     </item>
     <item>
+      <title>hsk 3 full book audio | HSK 3 standard course textbook #hsk3course</title>
+      <description>hsk 3 full book audio | HSK 3 standard course textbook #hsk3course
+
+Timestamps:
+0:44 LESSON 1
+5:56 LESSON 2
+11:15 LESSON 3
+16:46 LESSON 4
+22:27 LESSON 5
+27:46 LESSON 6
+32:51 LESSON 7
+37:46 LESSON 8
+43:08 LESSON 9
+48:23 LESSON 10
+53:42 LESSON 11
+59:06 LESSON 12
+1:04:15 LESSON 13
+1:09:46 LESSON 14
+1:15:38 LESSON 15
+1:21:49 LESSON 16
+1:27:27 LESSON 17
+1:33:18 LESSON 18
+1:38:42 LESSON 19
+1:44:19 LESSON 20
+
+Source: https://www.youtube.com/watch?v=LprYHlO4urs</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/hsk-3/hsk-3-chapters.m4a" length="106270329" type="audio/mp4"/>
+      <guid isPermaLink="false">hsk-3</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:24 +0000</pubDate>
+      <itunes:title>hsk 3 full book audio | HSK 3 standard course textbook #hsk3course</itunes:title>
+      <itunes:summary>hsk 3 full book audio | HSK 3 standard course textbook #hsk3course
+
+Timestamps:
+0:44 LESSON 1
+5:56 LESSON 2
+11:15 LESSON 3
+16:46 LESSON 4
+22:27 LESSON 5
+27:46 LESSON 6
+32:51 LESSON 7
+37:46 LESSON 8
+43:08 LESSON 9
+48:23 LESSON 10
+53:42 LESSON 11
+59:06 LESSON 12
+1:04:15 LESSON 13
+1:09:46 LESSON 14
+1:15:38 LESSON 15
+1:21:49 LESSON 16
+1:27:27 LESSON 17
+1:33:18 LESSON 18
+1:38:42 LESSON 19
+1:44:19 LESSON 20
+
+Source: https://www.youtube.com/watch?v=LprYHlO4urs</itunes:summary>
+      <itunes:duration>01:49:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/episodes/hsk-3/chapters.json" type="application/json+chapters"/>
+      <!-- Source: https://www.youtube.com/watch?v=LprYHlO4urs -->
+    </item>
+    <item>
       <title>HSK 4 上 full book audio | HSK standard course textbook level 4 book 1 #hsk4</title>
       <description>HSK 4 上 full book audio | HSK standard course textbook level 4 book 1 #hsk4
 
@@ -162,7 +225,7 @@ Timestamps:
 Source: https://www.youtube.com/watch?v=fpMa1m3tm4A</itunes:summary>
       <itunes:duration>01:06:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>4</itunes:episode>
       <itunes:season>4</itunes:season>
       <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/episodes/hsk-4-shang/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=fpMa1m3tm4A -->
