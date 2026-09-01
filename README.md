@@ -14,7 +14,11 @@ https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/feed.xml
 
 | Episode | Title | Duration |
 |---------|-------|----------|
-| S1E1 | HSK 4 上 - Full Book Audio | 1:06:02 |
+| S1E1 | HSK 1 - Full Book Audio | 1:25:42 |
+| S1E2 | HSK 2 - Full Book Audio | 0:52:06 |
+| S1E3 | HSK 3 - Full Book Audio | 1:49:31 |
+| S1E4 | HSK 4 上 - Full Book Audio | 1:06:02 |
+| S1E5 | HSK 4 下 - Full Book Audio | 1:11:46 |
 
 ## Adding a New Episode
 
