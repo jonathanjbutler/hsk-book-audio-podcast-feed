@@ -137,6 +137,7 @@ This will:
 - GitHub Pages can take 10-20 seconds to deploy after a push
 - Use cache-busting query param when checking feed: `?$(date +%s)`
 - Cover art was generated with Python Pillow (installed via `pip3 install --break-system-packages Pillow`)
+- **Overcast does not handle future pub_dates correctly** — episodes with future dates may appear in wrong order. Always use past dates for pub_date.
 
 ## TODO — Videos to Add
 
