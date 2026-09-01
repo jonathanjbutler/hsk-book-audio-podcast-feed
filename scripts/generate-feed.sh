@@ -4,7 +4,7 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_DIR="$(dirname "$SCRIPT_DIR")"
 CHANNEL_FILE="$REPO_DIR/channel.json"
-FEED_FILE="$REPO_DIR/feed.xml"
+FEED_FILE="$REPO_DIR/hsk-book-audio-feed.xml"
 
 if [ ! -f "$CHANNEL_FILE" ]; then
   echo "Error: channel.json not found at $CHANNEL_FILE"

@@ -19,7 +19,7 @@
       <itunes:name>Jonathan Butler</itunes:name>
     </itunes:owner>
     <podcast:locked>no</podcast:locked>
-    <atom:link href="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/feed.xml" rel="self" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <atom:link href="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed.xml" rel="self" xmlns:atom="http://www.w3.org/2005/Atom"/>
     <item>
       <title>hsk1 full book audio || hsk standard course textbook #hsk1</title>
       <description>hsk1 full book audio || hsk standard course textbook #hsk1

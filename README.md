@@ -7,7 +7,7 @@ A podcast feed containing full audio from HSK Standard Course textbooks, designe
 Add this feed URL to your podcast app (Overcast, Apple Podcasts, Pocket Casts, etc.):
 
 ```
-https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/feed.xml
+https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed.xml
 ```
 
 ## Episodes
