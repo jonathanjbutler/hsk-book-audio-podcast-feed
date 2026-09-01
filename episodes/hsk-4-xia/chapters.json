@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 15,
+      "title": "LESSON 11"
+    },
+    {
+      "startTime": 418,
+      "title": "LESSON 12"
+    },
+    {
+      "startTime": 851,
+      "title": "LESSON 13"
+    },
+    {
+      "startTime": 1256,
+      "title": "LESSON 14"
+    },
+    {
+      "startTime": 1655,
+      "title": "LESSON 15"
+    },
+    {
+      "startTime": 2098,
+      "title": "LESSON 16"
+    },
+    {
+      "startTime": 2507,
+      "title": "LESSON 17"
+    },
+    {
+      "startTime": 2943,
+      "title": "LESSON 18"
+    },
+    {
+      "startTime": 3423,
+      "title": "LESSON 19"
+    },
+    {
+      "startTime": 3839,
+      "title": "LESSON 20"
+    }
+  ]
+}

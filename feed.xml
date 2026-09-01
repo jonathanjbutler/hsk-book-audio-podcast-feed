@@ -230,5 +230,48 @@ Source: https://www.youtube.com/watch?v=fpMa1m3tm4A</itunes:summary>
       <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/episodes/hsk-4-shang/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=fpMa1m3tm4A -->
     </item>
+    <item>
+      <title>HSK 4 下 xià full book audio | HSK 4 book 2 | HSK standard course textbook  #hsk4</title>
+      <description>HSK 4 下 xià full book audio | HSK 4 book 2 | HSK standard course textbook  #hsk4
+
+Timestamps:
+00:15 LESSON 11
+06:58 LESSON 12
+14:11 LESSON 13
+20:56 LESSON 14
+27:35 LESSON 15
+34:58 LESSON 16
+41:47 LESSON 17
+49:03 LESSON 18
+57:03 LESSON 19
+1:03:59 LESSON 20
+
+Source: https://www.youtube.com/watch?v=xU6nXfatALY</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/hsk-4-xia/hsk-4-xia-chapters.m4a" length="69638351" type="audio/mp4"/>
+      <guid isPermaLink="false">hsk-4-xia</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 4 下 xià full book audio | HSK 4 book 2 | HSK standard course textbook  #hsk4</itunes:title>
+      <itunes:summary>HSK 4 下 xià full book audio | HSK 4 book 2 | HSK standard course textbook  #hsk4
+
+Timestamps:
+00:15 LESSON 11
+06:58 LESSON 12
+14:11 LESSON 13
+20:56 LESSON 14
+27:35 LESSON 15
+34:58 LESSON 16
+41:47 LESSON 17
+49:03 LESSON 18
+57:03 LESSON 19
+1:03:59 LESSON 20
+
+Source: https://www.youtube.com/watch?v=xU6nXfatALY</itunes:summary>
+      <itunes:duration>01:11:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/episodes/hsk-4-xia/chapters.json" type="application/json+chapters"/>
+      <!-- Source: https://www.youtube.com/watch?v=xU6nXfatALY -->
+    </item>
   </channel>
 </rss>
