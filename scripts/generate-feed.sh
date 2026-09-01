@@ -86,6 +86,10 @@ for entry in "${SORTED_EPISODES[@]}"; do
   PUB_DATE=$(jq -r '.pub_date' "$file")
   EP_NUM=$(jq -r '.episode_number // ""' "$file")
   SEASON_NUM=$(jq -r '.season_number // ""' "$file")
+  GUID=$(jq -r '.guid // empty' "$file")
+  if [ -z "$GUID" ]; then
+    GUID="$SLUG"
+  fi
   
   # Format duration as HH:MM:SS
   hours=$((DURATION / 3600))
@@ -116,7 +120,7 @@ for entry in "${SORTED_EPISODES[@]}"; do
       <title>${EP_TITLE}</title>
       <description>${EP_DESCRIPTION_ESCAPED}</description>
       <enclosure url="${AUDIO_URL}" length="${AUDIO_SIZE}" type="${AUDIO_TYPE}"/>
-      <guid isPermaLink="false">${SLUG}</guid>
+      <guid isPermaLink="false">${GUID}</guid>
       <pubDate>${PUB_DATE}</pubDate>
       <itunes:title>${EP_TITLE}</itunes:title>
       <itunes:summary>${EP_DESCRIPTION_ESCAPED}</itunes:summary>
