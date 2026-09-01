@@ -90,7 +90,7 @@ jq --arg url "$RELEASE_URL" '.audio_url = $url' "$METADATA_FILE" > "$METADATA_FI
 mv "$METADATA_FILE.tmp" "$METADATA_FILE"
 
 # --- Regenerate feed ---
-echo "Regenerating hsk-book-audio-feed.xml..."
+echo "Regenerating hsk-book-audio-feed-v2.xml..."
 bash "$SCRIPT_DIR/generate-feed.sh"
 
 # --- Git commit and push ---
@@ -111,8 +111,8 @@ echo "=========================================="
 echo "Episode published!"
 echo "=========================================="
 echo "Release: https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/tag/$SLUG"
-echo "Feed: https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed.xml"
+echo "Feed: https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed-v2.xml"
 echo ""
 echo "Subscribe in Overcast:"
-echo "  https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed.xml"
+echo "  https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed-v2.xml"
 echo "=========================================="

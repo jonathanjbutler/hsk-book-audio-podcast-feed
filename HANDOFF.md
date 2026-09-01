@@ -10,7 +10,7 @@ This repo hosts a self-generated podcast feed of HSK Standard Course textbook au
 hsk-book-audio-podcast-feed/
 ├── scripts/
 │   ├── add-episode.sh       # Download audio, parse chapters, embed in M4A, create metadata
-│   ├── generate-feed.sh     # Rebuild hsk-book-audio-feed.xml from all episodes/*/metadata.json
+│   ├── generate-feed.sh     # Rebuild hsk-book-audio-feed-v2.xml from all episodes/*/metadata.json
 │   └── publish-release.sh   # Upload audio to GitHub Release, update feed, commit+push
 ├── episodes/
 │   ├── hsk-1/               # One folder per episode
@@ -24,7 +24,7 @@ hsk-book-audio-podcast-feed/
 ├── artwork/
 │   └── cover.png            # 1400x1400 podcast cover art
 ├── channel.json             # Podcast-level metadata (title, author, description, etc.)
-├── hsk-book-audio-feed.xml  # Generated RSS feed (served by GitHub Pages)
+├── hsk-book-audio-feed-v2.xml  # Generated RSS feed (served by GitHub Pages)
 └── .gitignore
 ```
 
@@ -33,7 +33,7 @@ hsk-book-audio-podcast-feed/
 | Resource | URL |
 |---|---|
 | Repo | https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed |
-| Feed (subscribe in Overcast) | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed.xml |
+| Feed (subscribe in Overcast) | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed-v2.xml |
 | Cover art | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/artwork/cover.png |
 | Chapter JSON example | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/episodes/hsk-1/chapters.json |
 
@@ -68,7 +68,7 @@ The script will:
 - Parse chapter timestamps
 - Embed chapters into the M4A file via ffmpeg
 - Create `episodes/<slug>/metadata.json` and `chapters.json`
-- Regenerate `hsk-book-audio-feed.xml`
+- Regenerate `hsk-book-audio-feed-v2.xml`
 
 ### 2. Rename slug if needed
 
@@ -111,7 +111,7 @@ bash scripts/publish-release.sh hsk-5
 This will:
 - Create a GitHub Release with the M4A as an asset
 - Update `metadata.json` with the real audio URL
-- Regenerate `hsk-book-audio-feed.xml`
+- Regenerate `hsk-book-audio-feed-v2.xml`
 - Commit and push to GitHub
 
 ## Technical Details
@@ -154,7 +154,7 @@ For each video:
 
 ## Podcast App Setup
 
-**Overcast**: Add feed URL `https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed.xml`
+**Overcast**: Add feed URL `https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed-v2.xml`
 
 Chapters will appear natively in Overcast's chapter navigation.
 

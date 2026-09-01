@@ -263,7 +263,7 @@ echo "Created: $EPISODE_DIR/metadata.json"
 
 # --- Regenerate feed ---
 echo ""
-echo "Regenerating hsk-book-audio-feed.xml..."
+echo "Regenerating hsk-book-audio-feed-v2.xml..."
 bash "$SCRIPT_DIR/generate-feed.sh"
 
 # --- Summary ---

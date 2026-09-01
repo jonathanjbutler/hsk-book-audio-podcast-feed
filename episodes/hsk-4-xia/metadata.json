@@ -5,12 +5,12 @@
   "youtube_url": "https://www.youtube.com/watch?v=xU6nXfatALY",
   "youtube_id": "xU6nXfatALY",
   "duration_seconds": 4306,
-  "audio_file": "hsk-4-xia-v2-chapters.m4a",
-  "audio_url": "https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/hsk-4-xia/hsk-4-xia-v2-chapters.m4a",
+  "audio_file": "hsk-4-xia-v3-chapters.m4a",
+  "audio_url": "https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/hsk-4-xia/hsk-4-xia-v3-chapters.m4a",
   "audio_size_bytes": 69638351,
   "audio_type": "audio/mp4",
   "pub_date": "Mon, 31 Aug 2026 00:00:00 +0000",
   "episode_number": 5,
   "season_number": 1,
-  "guid": "hsk-4-xia-v2"
+  "guid": "hsk-4-xia-v3"
 }
