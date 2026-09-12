@@ -1,0 +1,13 @@
+{
+  "title": "HSK Vocabulary",
+  "description": "Chinese vocabulary words with example sentences for HSK levels 1-9. Perfect for learners building their vocabulary at every level.",
+  "author": "Jonathan Butler",
+  "email": "",
+  "language": "en",
+  "category": "Education",
+  "subcategory": "Language Learning",
+  "image": "artwork/cover-vocab.png",
+  "link": "https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/",
+  "feed_url": "https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-vocab-feed.xml",
+  "explicit": false
+}

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HSK Vocabulary</title>
+    <description>Chinese vocabulary words with example sentences for HSK levels 1-9. Perfect for learners building their vocabulary at every level.</description>
+    <link>https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/</link>
+    <language>en</language>
+    <itunes:author>Jonathan Butler</itunes:author>
+    <itunes:summary>Chinese vocabulary words with example sentences for HSK levels 1-9. Perfect for learners building their vocabulary at every level.</itunes:summary>
+    <itunes:image href="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/artwork/cover-vocab.png"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Jonathan Butler</itunes:name>
+    </itunes:owner>
+    <podcast:locked>no</podcast:locked>
+    <atom:link href="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-vocab-feed.xml" rel="self" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <item>
+      <title>HSK 1 Vocabulary</title>
+      <description>HSK 1 Vocabulary
+
+Source: https://www.youtube.com/watch?v=vROYT4eD-GI</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-1/vocab-hsk-1-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-1-v1</guid>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 1 Vocabulary</itunes:title>
+      <itunes:summary>HSK 1 Vocabulary
+
+Source: https://www.youtube.com/watch?v=vROYT4eD-GI</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=vROYT4eD-GI -->
+    </item>
+    <item>
+      <title>HSK 2 Vocabulary</title>
+      <description>HSK 2 Vocabulary
+
+Source: https://www.youtube.com/watch?v=UYV1k6swyKU</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-2/vocab-hsk-2-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-2-v1</guid>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 2 Vocabulary</itunes:title>
+      <itunes:summary>HSK 2 Vocabulary
+
+Source: https://www.youtube.com/watch?v=UYV1k6swyKU</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=UYV1k6swyKU -->
+    </item>
+    <item>
+      <title>HSK 3 Vocabulary</title>
+      <description>HSK 3 Vocabulary
+
+Source: https://www.youtube.com/watch?v=ElvY6pceOkc</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-3/vocab-hsk-3-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-3-v1</guid>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 3 Vocabulary</itunes:title>
+      <itunes:summary>HSK 3 Vocabulary
+
+Source: https://www.youtube.com/watch?v=ElvY6pceOkc</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=ElvY6pceOkc -->
+    </item>
+    <item>
+      <title>HSK 4 Vocabulary</title>
+      <description>HSK 4 Vocabulary
+
+Source: https://www.youtube.com/watch?v=BD4WZUwaFcg</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-4/vocab-hsk-4-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-4-v1</guid>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 4 Vocabulary</itunes:title>
+      <itunes:summary>HSK 4 Vocabulary
+
+Source: https://www.youtube.com/watch?v=BD4WZUwaFcg</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=BD4WZUwaFcg -->
+    </item>
+    <item>
+      <title>HSK 5 Vocabulary Part 1</title>
+      <description>HSK 5 Vocabulary Part 1
+
+Source: https://www.youtube.com/watch?v=xy_8SRmI568</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-5a/vocab-hsk-5a-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-5a-v1</guid>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 5 Vocabulary Part 1</itunes:title>
+      <itunes:summary>HSK 5 Vocabulary Part 1
+
+Source: https://www.youtube.com/watch?v=xy_8SRmI568</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=xy_8SRmI568 -->
+    </item>
+    <item>
+      <title>HSK 5 Vocabulary Part 2</title>
+      <description>HSK 5 Vocabulary Part 2
+
+Source: https://www.youtube.com/watch?v=8SLTqxo_Pbs</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-5b/vocab-hsk-5b-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-5b-v1</guid>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 5 Vocabulary Part 2</itunes:title>
+      <itunes:summary>HSK 5 Vocabulary Part 2
+
+Source: https://www.youtube.com/watch?v=8SLTqxo_Pbs</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=8SLTqxo_Pbs -->
+    </item>
+    <item>
+      <title>HSK 6 Vocabulary Part 1</title>
+      <description>HSK 6 Vocabulary Part 1
+
+Source: https://www.youtube.com/watch?v=QtVAcDYzU9w</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6a/vocab-hsk-6a-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-6a-v1</guid>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 6 Vocabulary Part 1</itunes:title>
+      <itunes:summary>HSK 6 Vocabulary Part 1
+
+Source: https://www.youtube.com/watch?v=QtVAcDYzU9w</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=QtVAcDYzU9w -->
+    </item>
+    <item>
+      <title>HSK 6 Vocabulary Part 2</title>
+      <description>HSK 6 Vocabulary Part 2
+
+Source: https://www.youtube.com/watch?v=xOneK0tsdRU</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6b/vocab-hsk-6b-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-6b-v1</guid>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 6 Vocabulary Part 2</itunes:title>
+      <itunes:summary>HSK 6 Vocabulary Part 2
+
+Source: https://www.youtube.com/watch?v=xOneK0tsdRU</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=xOneK0tsdRU -->
+    </item>
+    <item>
+      <title>HSK 6 Vocabulary Part 3</title>
+      <description>HSK 6 Vocabulary Part 3
+
+Source: https://www.youtube.com/watch?v=wZWTUwUKcFk</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6c/vocab-hsk-6c-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-6c-v1</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 6 Vocabulary Part 3</itunes:title>
+      <itunes:summary>HSK 6 Vocabulary Part 3
+
+Source: https://www.youtube.com/watch?v=wZWTUwUKcFk</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=wZWTUwUKcFk -->
+    </item>
+    <item>
+      <title>HSK 6 Vocabulary Part 4</title>
+      <description>HSK 6 Vocabulary Part 4
+
+Source: https://www.youtube.com/watch?v=Qf08YoJRx5o</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6d/vocab-hsk-6d-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-6d-v1</guid>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 6 Vocabulary Part 4</itunes:title>
+      <itunes:summary>HSK 6 Vocabulary Part 4
+
+Source: https://www.youtube.com/watch?v=Qf08YoJRx5o</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=Qf08YoJRx5o -->
+    </item>
+    <item>
+      <title>HSK 7-9 Vocabulary Part 1</title>
+      <description>HSK 7-9 Vocabulary Part 1
+
+Source: https://www.youtube.com/watch?v=_d1pnq4PorI</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9a/vocab-hsk-7-9a-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-7-9a-v1</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 7-9 Vocabulary Part 1</itunes:title>
+      <itunes:summary>HSK 7-9 Vocabulary Part 1
+
+Source: https://www.youtube.com/watch?v=_d1pnq4PorI</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=_d1pnq4PorI -->
+    </item>
+    <item>
+      <title>HSK 7-9 Vocabulary Part 2</title>
+      <description>HSK 7-9 Vocabulary Part 2
+
+Source: https://www.youtube.com/watch?v=F1NYDV3Is24</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9b/vocab-hsk-7-9b-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-7-9b-v1</guid>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 7-9 Vocabulary Part 2</itunes:title>
+      <itunes:summary>HSK 7-9 Vocabulary Part 2
+
+Source: https://www.youtube.com/watch?v=F1NYDV3Is24</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=F1NYDV3Is24 -->
+    </item>
+    <item>
+      <title>HSK 7-9 Vocabulary Part 3</title>
+      <description>HSK 7-9 Vocabulary Part 3
+
+Source: https://www.youtube.com/watch?v=1wWKhA0KVNI</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9c/vocab-hsk-7-9c-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-7-9c-v1</guid>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 7-9 Vocabulary Part 3</itunes:title>
+      <itunes:summary>HSK 7-9 Vocabulary Part 3
+
+Source: https://www.youtube.com/watch?v=1wWKhA0KVNI</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=1wWKhA0KVNI -->
+    </item>
+    <item>
+      <title>HSK 7-9 Vocabulary Part 4</title>
+      <description>HSK 7-9 Vocabulary Part 4
+
+Source: https://www.youtube.com/watch?v=XXkYzpYWZ7g</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9d/vocab-hsk-7-9d-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-7-9d-v1</guid>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 7-9 Vocabulary Part 4</itunes:title>
+      <itunes:summary>HSK 7-9 Vocabulary Part 4
+
+Source: https://www.youtube.com/watch?v=XXkYzpYWZ7g</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=XXkYzpYWZ7g -->
+    </item>
+    <item>
+      <title>HSK 7-9 Vocabulary Part 5</title>
+      <description>HSK 7-9 Vocabulary Part 5
+
+Source: https://www.youtube.com/watch?v=Hk8XKuXxuU4</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9e/vocab-hsk-7-9e-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-7-9e-v1</guid>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 7-9 Vocabulary Part 5</itunes:title>
+      <itunes:summary>HSK 7-9 Vocabulary Part 5
+
+Source: https://www.youtube.com/watch?v=Hk8XKuXxuU4</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=Hk8XKuXxuU4 -->
+    </item>
+    <item>
+      <title>HSK 7-9 Vocabulary Part 6</title>
+      <description>HSK 7-9 Vocabulary Part 6
+
+Source: https://www.youtube.com/watch?v=O-Z2vntfWsg</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9f/vocab-hsk-7-9f-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-7-9f-v1</guid>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 7-9 Vocabulary Part 6</itunes:title>
+      <itunes:summary>HSK 7-9 Vocabulary Part 6
+
+Source: https://www.youtube.com/watch?v=O-Z2vntfWsg</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=O-Z2vntfWsg -->
+    </item>
+    <item>
+      <title>HSK 7-9 Vocabulary Part 7</title>
+      <description>HSK 7-9 Vocabulary Part 7
+
+Source: https://www.youtube.com/watch?v=m898bwEZ22s</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9g/vocab-hsk-7-9g-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-7-9g-v1</guid>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 7-9 Vocabulary Part 7</itunes:title>
+      <itunes:summary>HSK 7-9 Vocabulary Part 7
+
+Source: https://www.youtube.com/watch?v=m898bwEZ22s</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=m898bwEZ22s -->
+    </item>
+    <item>
+      <title>HSK 7-9 Vocabulary Part 8</title>
+      <description>HSK 7-9 Vocabulary Part 8
+
+Source: https://www.youtube.com/watch?v=5M8IUEOjVhs</description>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9h/vocab-hsk-7-9h-chapters.m4a" length="0" type="audio/mp4"/>
+      <guid isPermaLink="false">vocab-hsk-7-9h-v1</guid>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <itunes:title>HSK 7-9 Vocabulary Part 8</itunes:title>
+      <itunes:summary>HSK 7-9 Vocabulary Part 8
+
+Source: https://www.youtube.com/watch?v=5M8IUEOjVhs</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <!-- Source: https://www.youtube.com/watch?v=5M8IUEOjVhs -->
+    </item>
+  </channel>
+</rss>

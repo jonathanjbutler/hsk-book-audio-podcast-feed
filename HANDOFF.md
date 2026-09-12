@@ -2,29 +2,44 @@
 
 ## Overview
 
-This repo hosts a self-generated podcast feed of HSK Standard Course textbook audio, sourced from YouTube. Episodes are downloaded as M4A with chapters embedded, stored in GitHub Releases, and served via a podcast RSS feed on GitHub Pages.
+This repo hosts two self-generated podcast feeds of HSK Standard Course content, sourced from YouTube:
+
+1. **HSK Book Audio** — Full textbook audio with chapter markers
+2. **HSK Vocabulary** — Vocabulary words with example sentences (HSK levels 1-9)
+
+Episodes are downloaded as M4A with chapters embedded, stored in GitHub Releases, and served via podcast RSS feeds on GitHub Pages.
 
 ## Architecture
 
 ```
 hsk-book-audio-podcast-feed/
 ├── scripts/
-│   ├── add-episode.sh       # Download audio, parse chapters, embed in M4A, create metadata
-│   ├── generate-feed.sh     # Rebuild hsk-book-audio-feed-v2.xml from all episodes/*/metadata.json
-│   └── publish-release.sh   # Upload audio to GitHub Release, update feed, commit+push
-├── episodes/
-│   ├── hsk-1/               # One folder per episode
-│   │   ├── metadata.json    # Episode metadata (slug, title, episode_number, pub_date, etc.)
-│   │   └── chapters.json    # Podcasting 2.0 chapter markers
+│   ├── add-episode.sh           # Download audio, parse chapters, embed in M4A, create metadata
+│   ├── generate-feed.sh         # Rebuild hsk-book-audio-feed-v2.xml from episodes/*/metadata.json
+│   ├── publish-release.sh       # Upload audio to GitHub Release, update feed, commit+push
+│   ├── add-vocab-episode.sh     # Add vocabulary episode (similar to add-episode.sh)
+│   ├── generate-vocab-feed.sh   # Rebuild hsk-vocab-feed.xml from vocab-episodes/*/metadata.json
+│   └── publish-vocab-release.sh # Upload vocab audio to GitHub Release, update feed, commit+push
+├── episodes/                    # HSK Book Audio episodes
+│   ├── hsk-1/
 │   ├── hsk-2/
 │   ├── hsk-3/
 │   ├── hsk-4-shang/
 │   └── hsk-4-xia/
-├── audio/                   # Local staging (gitignored, audio lives in GitHub Releases)
+├── vocab-episodes/              # HSK Vocabulary episodes
+│   ├── vocab-hsk-1/
+│   ├── vocab-hsk-2/
+│   ├── ...
+│   └── vocab-hsk-7-9h/
+├── audio/                       # Local staging for book audio (gitignored)
+├── audio-vocab/                 # Local staging for vocab audio (gitignored)
 ├── artwork/
-│   └── cover.png            # 1400x1400 podcast cover art
-├── channel.json             # Podcast-level metadata (title, author, description, etc.)
-├── hsk-book-audio-feed-v2.xml  # Generated RSS feed (served by GitHub Pages)
+│   ├── cover.png                # 1400x1400 cover art for HSK Book Audio
+│   └── cover-vocab.png          # 1400x1400 cover art for HSK Vocabulary
+├── channel.json                 # Metadata for HSK Book Audio feed
+├── channel-vocab.json           # Metadata for HSK Vocabulary feed
+├── hsk-book-audio-feed-v2.xml   # RSS feed for HSK Book Audio (served by GitHub Pages)
+├── hsk-vocab-feed.xml           # RSS feed for HSK Vocabulary (served by GitHub Pages)
 └── .gitignore
 ```
 
@@ -33,8 +48,10 @@ hsk-book-audio-podcast-feed/
 | Resource | URL |
 |---|---|
 | Repo | https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed |
-| Feed (subscribe in Overcast) | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed-v2.xml |
-| Cover art | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/artwork/cover.png |
+| Book Audio Feed (subscribe) | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed-v2.xml |
+| Vocabulary Feed (subscribe) | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-vocab-feed.xml |
+| Book Audio Cover art | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/artwork/cover.png |
+| Vocabulary Cover art | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/artwork/cover-vocab.png |
 | Chapter JSON example | https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/episodes/hsk-1/chapters.json |
 
 ## Current Episodes
@@ -48,6 +65,31 @@ hsk-book-audio-podcast-feed/
 | 5 | hsk-4-xia | HSK 4 下 Full Book Audio | 1 | https://www.youtube.com/watch?v=xU6nXfatALY |
 
 All episodes are in **season 1** with sequential episode numbers. Pub dates are staggered by 1 hour each so episode 1 appears first (newest date).
+
+## Vocabulary Episodes
+
+| # | Slug | Title | YouTube Source |
+|---|---|---|---|
+| 1 | vocab-hsk-1 | HSK 1 Vocabulary | https://www.youtube.com/watch?v=vROYT4eD-GI |
+| 2 | vocab-hsk-2 | HSK 2 Vocabulary | https://www.youtube.com/watch?v=UYV1k6swyKU |
+| 3 | vocab-hsk-3 | HSK 3 Vocabulary | https://www.youtube.com/watch?v=ElvY6pceOkc |
+| 4 | vocab-hsk-4 | HSK 4 Vocabulary | https://www.youtube.com/watch?v=BD4WZUwaFcg |
+| 5 | vocab-hsk-5a | HSK 5 Vocabulary Part 1 | https://www.youtube.com/watch?v=xy_8SRmI568 |
+| 6 | vocab-hsk-5b | HSK 5 Vocabulary Part 2 | https://www.youtube.com/watch?v=8SLTqxo_Pbs |
+| 7 | vocab-hsk-6a | HSK 6 Vocabulary Part 1 | https://www.youtube.com/watch?v=QtVAcDYzU9w |
+| 8 | vocab-hsk-6b | HSK 6 Vocabulary Part 2 | https://www.youtube.com/watch?v=xOneK0tsdRU |
+| 9 | vocab-hsk-6c | HSK 6 Vocabulary Part 3 | https://www.youtube.com/watch?v=wZWTUwUKcFk |
+| 10 | vocab-hsk-6d | HSK 6 Vocabulary Part 4 | https://www.youtube.com/watch?v=Qf08YoJRx5o |
+| 11 | vocab-hsk-7-9a | HSK 7-9 Vocabulary Part 1 | https://www.youtube.com/watch?v=_d1pnq4PorI |
+| 12 | vocab-hsk-7-9b | HSK 7-9 Vocabulary Part 2 | https://www.youtube.com/watch?v=F1NYDV3Is24 |
+| 13 | vocab-hsk-7-9c | HSK 7-9 Vocabulary Part 3 | https://www.youtube.com/watch?v=1wWKhA0KVNI |
+| 14 | vocab-hsk-7-9d | HSK 7-9 Vocabulary Part 4 | https://www.youtube.com/watch?v=XXkYzpYWZ7g |
+| 15 | vocab-hsk-7-9e | HSK 7-9 Vocabulary Part 5 | https://www.youtube.com/watch?v=Hk8XKuXxuU4 |
+| 16 | vocab-hsk-7-9f | HSK 7-9 Vocabulary Part 6 | https://www.youtube.com/watch?v=O-Z2vntfWsg |
+| 17 | vocab-hsk-7-9g | HSK 7-9 Vocabulary Part 7 | https://www.youtube.com/watch?v=m898bwEZ22s |
+| 18 | vocab-hsk-7-9h | HSK 7-9 Vocabulary Part 8 | https://www.youtube.com/watch?v=5M8IUEOjVhs |
+
+Vocabulary episodes are in **season 1** with sequential episode numbers. Pub dates are in the past (August 2025) to avoid Overcast ordering issues.
 
 ## How to Add a New Episode
 
@@ -155,7 +197,15 @@ For each video:
 
 ## Podcast App Setup
 
-**Overcast**: Add feed URL `https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed-v2.xml`
+**HSK Book Audio** (full textbook audio):
+```
+https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-book-audio-feed-v2.xml
+```
+
+**HSK Vocabulary** (vocabulary with example sentences):
+```
+https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-vocab-feed.xml
+```
 
 Chapters will appear natively in Overcast's chapter navigation.
 
