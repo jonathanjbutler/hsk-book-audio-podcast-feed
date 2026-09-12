@@ -21,327 +21,665 @@
     <podcast:locked>no</podcast:locked>
     <atom:link href="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/hsk-vocab-feed.xml" rel="self" xmlns:atom="http://www.w3.org/2005/Atom"/>
     <item>
-      <title>HSK 1 Vocabulary</title>
-      <description>HSK 1 Vocabulary
+      <title>HSK 1 | Chinese Vocabulary - Learn 153 words with example sentences - Beginners@HSKAnywhere</title>
+      <description>HSK 1 | Chinese Vocabulary - Learn 153 words with example sentences - Beginners@HSKAnywhere
+
+Timestamps:
+0:00 No. 1 - No. 50
+8:41 No. 51 - No. 100
+17:17 No. 101 - No. 153
 
 Source: https://www.youtube.com/watch?v=vROYT4eD-GI</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-1/vocab-hsk-1-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-1/vocab-hsk-1-chapters.m4a" length="25727568" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-1-v1</guid>
       <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 1 Vocabulary</itunes:title>
-      <itunes:summary>HSK 1 Vocabulary
+      <itunes:title>HSK 1 | Chinese Vocabulary - Learn 153 words with example sentences - Beginners@HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 1 | Chinese Vocabulary - Learn 153 words with example sentences - Beginners@HSKAnywhere
+
+Timestamps:
+0:00 No. 1 - No. 50
+8:41 No. 51 - No. 100
+17:17 No. 101 - No. 153
 
 Source: https://www.youtube.com/watch?v=vROYT4eD-GI</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>00:18:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-1/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=vROYT4eD-GI -->
     </item>
     <item>
-      <title>HSK 2 Vocabulary</title>
-      <description>HSK 2 Vocabulary
+      <title>HSK 2 | Chinese Vocabulary - Learn 151 words with example sentences - Beginners @HSKAnywhere</title>
+      <description>HSK 2 | Chinese Vocabulary - Learn 151 words with example sentences - Beginners @HSKAnywhere
+
+Timestamps:
+0:00 Full Audio
 
 Source: https://www.youtube.com/watch?v=UYV1k6swyKU</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-2/vocab-hsk-2-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-2/vocab-hsk-2-chapters.m4a" length="26129953" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-2-v1</guid>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 2 Vocabulary</itunes:title>
-      <itunes:summary>HSK 2 Vocabulary
+      <itunes:title>HSK 2 | Chinese Vocabulary - Learn 151 words with example sentences - Beginners @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 2 | Chinese Vocabulary - Learn 151 words with example sentences - Beginners @HSKAnywhere
+
+Timestamps:
+0:00 Full Audio
 
 Source: https://www.youtube.com/watch?v=UYV1k6swyKU</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>00:01:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-2/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=UYV1k6swyKU -->
     </item>
     <item>
-      <title>HSK 3 Vocabulary</title>
-      <description>HSK 3 Vocabulary
+      <title>HSK 3 | Chinese Vocabulary - Learn 299 words with example sentences - intermediate @HSKAnywhere</title>
+      <description>HSK 3 | Chinese Vocabulary - Learn 299 words with example sentences - intermediate @HSKAnywhere
+
+Timestamps:
+0:00 Full Audio
 
 Source: https://www.youtube.com/watch?v=ElvY6pceOkc</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-3/vocab-hsk-3-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-3/vocab-hsk-3-chapters.m4a" length="54624037" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-3-v1</guid>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 3 Vocabulary</itunes:title>
-      <itunes:summary>HSK 3 Vocabulary
+      <itunes:title>HSK 3 | Chinese Vocabulary - Learn 299 words with example sentences - intermediate @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 3 | Chinese Vocabulary - Learn 299 words with example sentences - intermediate @HSKAnywhere
+
+Timestamps:
+0:00 Full Audio
 
 Source: https://www.youtube.com/watch?v=ElvY6pceOkc</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>00:01:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-3/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=ElvY6pceOkc -->
     </item>
     <item>
-      <title>HSK 4 Vocabulary</title>
-      <description>HSK 4 Vocabulary
+      <title>HSK 4 | Chinese Vocabulary - Learn 604 words with example sentences - intermediate@HSKAnywhere</title>
+      <description>HSK 4 | Chinese Vocabulary - Learn 604 words with example sentences - intermediate@HSKAnywhere
+
+Timestamps:
+0:00 No. 1 - No. 200
+38:38 No. 201 - No. 400
+1:17:25 No. 401 - No. 604
 
 Source: https://www.youtube.com/watch?v=BD4WZUwaFcg</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-4/vocab-hsk-4-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-4/vocab-hsk-4-chapters.m4a" length="112543831" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-4-v1</guid>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 4 Vocabulary</itunes:title>
-      <itunes:summary>HSK 4 Vocabulary
+      <itunes:title>HSK 4 | Chinese Vocabulary - Learn 604 words with example sentences - intermediate@HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 4 | Chinese Vocabulary - Learn 604 words with example sentences - intermediate@HSKAnywhere
+
+Timestamps:
+0:00 No. 1 - No. 200
+38:38 No. 201 - No. 400
+1:17:25 No. 401 - No. 604
 
 Source: https://www.youtube.com/watch?v=BD4WZUwaFcg</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>01:19:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-4/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=BD4WZUwaFcg -->
     </item>
     <item>
-      <title>HSK 5 Vocabulary Part 1</title>
-      <description>HSK 5 Vocabulary Part 1
+      <title>HSK 5 | Chinese Vocabulary - Learn 1277 words with example sentences - Part 1 - Advanced</title>
+      <description>HSK 5 | Chinese Vocabulary - Learn 1277 words with example sentences - Part 1 - Advanced
+
+Timestamps:
+0:00 No. 1 - No. 200
+39:36 No. 201 - No. 400
+1:19:31 No. 401 - No. 600
+1:59:24 No. 601 - No. 640
 
 Source: https://www.youtube.com/watch?v=xy_8SRmI568</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-5a/vocab-hsk-5a-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-5a/vocab-hsk-5a-chapters.m4a" length="123479764" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-5a-v1</guid>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 5 Vocabulary Part 1</itunes:title>
-      <itunes:summary>HSK 5 Vocabulary Part 1
+      <itunes:title>HSK 5 | Chinese Vocabulary - Learn 1277 words with example sentences - Part 1 - Advanced</itunes:title>
+      <itunes:summary>HSK 5 | Chinese Vocabulary - Learn 1277 words with example sentences - Part 1 - Advanced
+
+Timestamps:
+0:00 No. 1 - No. 200
+39:36 No. 201 - No. 400
+1:19:31 No. 401 - No. 600
+1:59:24 No. 601 - No. 640
 
 Source: https://www.youtube.com/watch?v=xy_8SRmI568</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:01:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-5a/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=xy_8SRmI568 -->
     </item>
     <item>
-      <title>HSK 5 Vocabulary Part 2</title>
-      <description>HSK 5 Vocabulary Part 2
+      <title>HSK 5 | Chinese Vocabulary - Learn 1277 words with example sentences - Part 2 - Advanced</title>
+      <description>HSK 5 | Chinese Vocabulary - Learn 1277 words with example sentences - Part 2 - Advanced
+
+Timestamps:
+0:00 No. 641 - No. 800
+31:46 No. 801 - No. 1000
+1:11:24 No. 1000 - No. 1200
+1:50:51 No. 1201 - No. 1277
 
 Source: https://www.youtube.com/watch?v=8SLTqxo_Pbs</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-5b/vocab-hsk-5b-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-5b/vocab-hsk-5b-chapters.m4a" length="122272480" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-5b-v1</guid>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 5 Vocabulary Part 2</itunes:title>
-      <itunes:summary>HSK 5 Vocabulary Part 2
+      <itunes:title>HSK 5 | Chinese Vocabulary - Learn 1277 words with example sentences - Part 2 - Advanced</itunes:title>
+      <itunes:summary>HSK 5 | Chinese Vocabulary - Learn 1277 words with example sentences - Part 2 - Advanced
+
+Timestamps:
+0:00 No. 641 - No. 800
+31:46 No. 801 - No. 1000
+1:11:24 No. 1000 - No. 1200
+1:50:51 No. 1201 - No. 1277
 
 Source: https://www.youtube.com/watch?v=8SLTqxo_Pbs</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>01:52:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>6</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-5b/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=8SLTqxo_Pbs -->
     </item>
     <item>
-      <title>HSK 6 Vocabulary Part 1</title>
-      <description>HSK 6 Vocabulary Part 1
+      <title>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 1 - Advanced</title>
+      <description>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 1 - Advanced
+
+Timestamps:
+0:00 Opening
+0:17 No. 1 - No. 100
+20:35 No. 101 - No. 200
+40:42 No. 201 - No. 300
+1:01:43 No. 301 - No. 400
+1:23:38 No. 401 - No. 500
+1:43:05 No. 501 - No. 600
+2:03:08 No. 601 - No. 627
+2:08:33 Ending
 
 Source: https://www.youtube.com/watch?v=QtVAcDYzU9w</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6a/vocab-hsk-6a-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6a/vocab-hsk-6a-chapters.m4a" length="125080963" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-6a-v1</guid>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 6 Vocabulary Part 1</itunes:title>
-      <itunes:summary>HSK 6 Vocabulary Part 1
+      <itunes:title>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 1 - Advanced</itunes:title>
+      <itunes:summary>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 1 - Advanced
+
+Timestamps:
+0:00 Opening
+0:17 No. 1 - No. 100
+20:35 No. 101 - No. 200
+40:42 No. 201 - No. 300
+1:01:43 No. 301 - No. 400
+1:23:38 No. 401 - No. 500
+1:43:05 No. 501 - No. 600
+2:03:08 No. 601 - No. 627
+2:08:33 Ending
 
 Source: https://www.youtube.com/watch?v=QtVAcDYzU9w</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:10:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>7</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-6a/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=QtVAcDYzU9w -->
     </item>
     <item>
-      <title>HSK 6 Vocabulary Part 2</title>
-      <description>HSK 6 Vocabulary Part 2
+      <title>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 2 @HSKAnywhere</title>
+      <description>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 2 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 628 - No. 700
+14:44 No. 701 - No. 800
+34:32 No. 801 - No. 900
+54:43 No. 901 - No. 1000
+1:14:00 No. 1001 - No. 1100
+1:33:54 No. 1101 - No. 1200
+1:55:32 No. 1201 - No. 1254
+2:07:16 Ending
 
 Source: https://www.youtube.com/watch?v=xOneK0tsdRU</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6b/vocab-hsk-6b-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6b/vocab-hsk-6b-chapters.m4a" length="123814797" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-6b-v1</guid>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 6 Vocabulary Part 2</itunes:title>
-      <itunes:summary>HSK 6 Vocabulary Part 2
+      <itunes:title>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 2 @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 2 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 628 - No. 700
+14:44 No. 701 - No. 800
+34:32 No. 801 - No. 900
+54:43 No. 901 - No. 1000
+1:14:00 No. 1001 - No. 1100
+1:33:54 No. 1101 - No. 1200
+1:55:32 No. 1201 - No. 1254
+2:07:16 Ending
 
 Source: https://www.youtube.com/watch?v=xOneK0tsdRU</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:08:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-6b/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=xOneK0tsdRU -->
     </item>
     <item>
-      <title>HSK 6 Vocabulary Part 3</title>
-      <description>HSK 6 Vocabulary Part 3
+      <title>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 3  @HSKAnywhere</title>
+      <description>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 3  @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 1255 - No. 1300
+10:15 No. 1301 - No. 1400
+32:09 No. 1401 - No. 1500
+53:55 No. 1501 - No. 1600
+1:15:39 No. 1601 - No. 1700
+1:36:59 No. 1701 - No. 1800
+1:57:47 No. 1801 - No. 1881
+2:14:12 Ending
 
 Source: https://www.youtube.com/watch?v=wZWTUwUKcFk</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6c/vocab-hsk-6c-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6c/vocab-hsk-6c-chapters.m4a" length="130557952" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-6c-v1</guid>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 6 Vocabulary Part 3</itunes:title>
-      <itunes:summary>HSK 6 Vocabulary Part 3
+      <itunes:title>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 3  @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 3  @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 1255 - No. 1300
+10:15 No. 1301 - No. 1400
+32:09 No. 1401 - No. 1500
+53:55 No. 1501 - No. 1600
+1:15:39 No. 1601 - No. 1700
+1:36:59 No. 1701 - No. 1800
+1:57:47 No. 1801 - No. 1881
+2:14:12 Ending
 
 Source: https://www.youtube.com/watch?v=wZWTUwUKcFk</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:15:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>9</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-6c/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=wZWTUwUKcFk -->
     </item>
     <item>
-      <title>HSK 6 Vocabulary Part 4</title>
-      <description>HSK 6 Vocabulary Part 4
+      <title>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 4 @HSKAnywhere</title>
+      <description>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 4 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 1882 - No. 1900
+4:09 No. 1901 - No. 2000
+24:48 No. 2001 - No. 2100
+45:07 No. 2101 - No. 2200
+1:05:39 No. 2201 - No. 2300
+1:25:52 No. 2301 - No. 2400
+1:46:19 No. 2401 - No. 2505
+2:07:39 Ending
 
 Source: https://www.youtube.com/watch?v=Qf08YoJRx5o</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6d/vocab-hsk-6d-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-6d/vocab-hsk-6d-chapters.m4a" length="124192663" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-6d-v1</guid>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 6 Vocabulary Part 4</itunes:title>
-      <itunes:summary>HSK 6 Vocabulary Part 4
+      <itunes:title>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 4 @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 6 | Chinese Vocabulary - Learn 2505 words with example sentences - Part 4 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 1882 - No. 1900
+4:09 No. 1901 - No. 2000
+24:48 No. 2001 - No. 2100
+45:07 No. 2101 - No. 2200
+1:05:39 No. 2201 - No. 2300
+1:25:52 No. 2301 - No. 2400
+1:46:19 No. 2401 - No. 2505
+2:07:39 Ending
 
 Source: https://www.youtube.com/watch?v=Qf08YoJRx5o</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:09:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>10</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-6d/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=Qf08YoJRx5o -->
     </item>
     <item>
-      <title>HSK 7-9 Vocabulary Part 1</title>
-      <description>HSK 7-9 Vocabulary Part 1
+      <title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 1 @HSKAnywhere</title>
+      <description>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 1 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 1- No. 100
+21:11 No. 101 - No. 200
+42:03 No. 201 - No. 300
+1:03:09 No. 301 - No. 400
+1:24:31 No. 401 - No. 500
+1:45:37 No. 501 - No. 600
+2:07:06 No. 601 - No. 703
+2:28:26 Ending
 
 Source: https://www.youtube.com/watch?v=_d1pnq4PorI</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9a/vocab-hsk-7-9a-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9a/vocab-hsk-7-9a-chapters.m4a" length="144356789" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-7-9a-v1</guid>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 7-9 Vocabulary Part 1</itunes:title>
-      <itunes:summary>HSK 7-9 Vocabulary Part 1
+      <itunes:title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 1 @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 1 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 1- No. 100
+21:11 No. 101 - No. 200
+42:03 No. 201 - No. 300
+1:03:09 No. 301 - No. 400
+1:24:31 No. 401 - No. 500
+1:45:37 No. 501 - No. 600
+2:07:06 No. 601 - No. 703
+2:28:26 Ending
 
 Source: https://www.youtube.com/watch?v=_d1pnq4PorI</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:30:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>11</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-7-9a/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=_d1pnq4PorI -->
     </item>
     <item>
-      <title>HSK 7-9 Vocabulary Part 2</title>
-      <description>HSK 7-9 Vocabulary Part 2
+      <title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 2  @HSKAnywhere</title>
+      <description>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 2  @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 704- No. 800
+20:14 No. 801 - No. 900
+40:42 No. 901 - No. 1000
+1:00:56 No. 1001 - No. 1100
+1:22:07 No. 1101 - No. 1200
+1:42:32 No. 1201 - No. 1300
+2:02:27 No. 1301 - No. 1406
+2:23:34 Ending
 
 Source: https://www.youtube.com/watch?v=F1NYDV3Is24</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9b/vocab-hsk-7-9b-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9b/vocab-hsk-7-9b-chapters.m4a" length="139638761" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-7-9b-v1</guid>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 7-9 Vocabulary Part 2</itunes:title>
-      <itunes:summary>HSK 7-9 Vocabulary Part 2
+      <itunes:title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 2  @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 2  @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 704- No. 800
+20:14 No. 801 - No. 900
+40:42 No. 901 - No. 1000
+1:00:56 No. 1001 - No. 1100
+1:22:07 No. 1101 - No. 1200
+1:42:32 No. 1201 - No. 1300
+2:02:27 No. 1301 - No. 1406
+2:23:34 Ending
 
 Source: https://www.youtube.com/watch?v=F1NYDV3Is24</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:25:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-7-9b/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=F1NYDV3Is24 -->
     </item>
     <item>
-      <title>HSK 7-9 Vocabulary Part 3</title>
-      <description>HSK 7-9 Vocabulary Part 3
+      <title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 3  @HSKAnywhere</title>
+      <description>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 3  @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 1407- No. 1500
+19:13 No. 1501 - No. 1600
+39:03 No. 1601 - No. 1700
+58:58 No. 1701 - No. 1800
+1:18:33 No. 1801 - No. 1900
+1:37:54 No. 1901 - No. 2000
+1:57:29 No. 2001 - No. 2109
+2:18:11 Ending
 
 Source: https://www.youtube.com/watch?v=1wWKhA0KVNI</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9c/vocab-hsk-7-9c-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9c/vocab-hsk-7-9c-chapters.m4a" length="134424476" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-7-9c-v1</guid>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 7-9 Vocabulary Part 3</itunes:title>
-      <itunes:summary>HSK 7-9 Vocabulary Part 3
+      <itunes:title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 3  @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 3  @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 1407- No. 1500
+19:13 No. 1501 - No. 1600
+39:03 No. 1601 - No. 1700
+58:58 No. 1701 - No. 1800
+1:18:33 No. 1801 - No. 1900
+1:37:54 No. 1901 - No. 2000
+1:57:29 No. 2001 - No. 2109
+2:18:11 Ending
 
 Source: https://www.youtube.com/watch?v=1wWKhA0KVNI</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:19:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>13</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-7-9c/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=1wWKhA0KVNI -->
     </item>
     <item>
-      <title>HSK 7-9 Vocabulary Part 4</title>
-      <description>HSK 7-9 Vocabulary Part 4
+      <title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 4 @HSKAnywhere</title>
+      <description>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 4 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 2110- No. 2200
+21:39 No. 2201 - No. 2300
+44:28 No. 2301 - No. 2400
+1:06:14 No. 2401 - No. 2500
+1:27:46 No. 2501 - No. 2600
+1:49:03 No. 2601 - No. 2700
+2:10:16 No. 2701 - No. 2812
+2:33:34 Ending
 
 Source: https://www.youtube.com/watch?v=XXkYzpYWZ7g</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9d/vocab-hsk-7-9d-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9d/vocab-hsk-7-9d-chapters.m4a" length="149344278" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-7-9d-v1</guid>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 7-9 Vocabulary Part 4</itunes:title>
-      <itunes:summary>HSK 7-9 Vocabulary Part 4
+      <itunes:title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 4 @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 4 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 2110- No. 2200
+21:39 No. 2201 - No. 2300
+44:28 No. 2301 - No. 2400
+1:06:14 No. 2401 - No. 2500
+1:27:46 No. 2501 - No. 2600
+1:49:03 No. 2601 - No. 2700
+2:10:16 No. 2701 - No. 2812
+2:33:34 Ending
 
 Source: https://www.youtube.com/watch?v=XXkYzpYWZ7g</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:35:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>14</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-7-9d/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=XXkYzpYWZ7g -->
     </item>
     <item>
-      <title>HSK 7-9 Vocabulary Part 5</title>
-      <description>HSK 7-9 Vocabulary Part 5
+      <title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 5 @HSKAnywhere</title>
+      <description>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 5 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 2813- No. 2900
+19:13 No. 2901 - No. 3000
+40:35 No. 3001 - No. 3100
+1:01:27 No. 3101 - No. 3200
+1:22:20 No. 3201 - No. 3300
+1:43:35 No. 3301 - No. 3400
+2:04:31 No. 3401 - No. 3515
+2:28:55 Ending
 
 Source: https://www.youtube.com/watch?v=Hk8XKuXxuU4</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9e/vocab-hsk-7-9e-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9e/vocab-hsk-7-9e-chapters.m4a" length="144828152" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-7-9e-v1</guid>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 7-9 Vocabulary Part 5</itunes:title>
-      <itunes:summary>HSK 7-9 Vocabulary Part 5
+      <itunes:title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 5 @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 5 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 2813- No. 2900
+19:13 No. 2901 - No. 3000
+40:35 No. 3001 - No. 3100
+1:01:27 No. 3101 - No. 3200
+1:22:20 No. 3201 - No. 3300
+1:43:35 No. 3301 - No. 3400
+2:04:31 No. 3401 - No. 3515
+2:28:55 Ending
 
 Source: https://www.youtube.com/watch?v=Hk8XKuXxuU4</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:30:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>15</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-7-9e/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=Hk8XKuXxuU4 -->
     </item>
     <item>
-      <title>HSK 7-9 Vocabulary Part 6</title>
-      <description>HSK 7-9 Vocabulary Part 6
+      <title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 6 @HSKAnywhere</title>
+      <description>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 6 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 3516- No. 3600
+17:53 No. 3601 - No. 3700
+37:51 No. 3701 - No. 3800
+58:07 No. 3801 - No. 3900
+1:18:24 No. 3901 - No. 4000
+1:38:20 No. 4001 - No. 4100
+1:58:07 No. 4101 - No. 4218
+2:21:13 Ending
 
 Source: https://www.youtube.com/watch?v=O-Z2vntfWsg</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9f/vocab-hsk-7-9f-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9f/vocab-hsk-7-9f-chapters.m4a" length="137357359" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-7-9f-v1</guid>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 7-9 Vocabulary Part 6</itunes:title>
-      <itunes:summary>HSK 7-9 Vocabulary Part 6
+      <itunes:title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 6 @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 6 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 3516- No. 3600
+17:53 No. 3601 - No. 3700
+37:51 No. 3701 - No. 3800
+58:07 No. 3801 - No. 3900
+1:18:24 No. 3901 - No. 4000
+1:38:20 No. 4001 - No. 4100
+1:58:07 No. 4101 - No. 4218
+2:21:13 Ending
 
 Source: https://www.youtube.com/watch?v=O-Z2vntfWsg</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:22:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>16</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-7-9f/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=O-Z2vntfWsg -->
     </item>
     <item>
-      <title>HSK 7-9 Vocabulary Part 7</title>
-      <description>HSK 7-9 Vocabulary Part 7
+      <title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 7 @HSKAnywhere</title>
+      <description>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 7 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 4219- No. 4300
+18:50 No. 4301 - No. 4400
+41:12 No. 4401 - No. 4500
+1:03:35 No. 4501 - No. 4600
+1:25:52 No. 4601 - No. 4700
+1:47:57 No. 4701 - No. 4800
+2:10:09 No. 4801 - No. 4921
+2:37:26 Ending
 
 Source: https://www.youtube.com/watch?v=m898bwEZ22s</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9g/vocab-hsk-7-9g-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9g/vocab-hsk-7-9g-chapters.m4a" length="153090944" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-7-9g-v1</guid>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 7-9 Vocabulary Part 7</itunes:title>
-      <itunes:summary>HSK 7-9 Vocabulary Part 7
+      <itunes:title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 7 @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 7 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 4219- No. 4300
+18:50 No. 4301 - No. 4400
+41:12 No. 4401 - No. 4500
+1:03:35 No. 4501 - No. 4600
+1:25:52 No. 4601 - No. 4700
+1:47:57 No. 4701 - No. 4800
+2:10:09 No. 4801 - No. 4921
+2:37:26 Ending
 
 Source: https://www.youtube.com/watch?v=m898bwEZ22s</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:39:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>17</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-7-9g/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=m898bwEZ22s -->
     </item>
     <item>
-      <title>HSK 7-9 Vocabulary Part 8</title>
-      <description>HSK 7-9 Vocabulary Part 8
+      <title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 8 @HSKAnywhere</title>
+      <description>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 8 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 4922 - No. 5000
+18:11 No. 5001 - No. 5100
+40:29 No. 5101 - No. 5200
+1:02:58 No. 5201 - No. 5300
+1:25:01 No. 5301 - No. 5400
+1:47:18 No. 5401 - No. 5500
+2:09:34 No. 5501 - No. 5621
+2:36:56 Ending
 
 Source: https://www.youtube.com/watch?v=5M8IUEOjVhs</description>
-      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9h/vocab-hsk-7-9h-chapters.m4a" length="0" type="audio/mp4"/>
+      <enclosure url="https://github.com/jonathanjbutler/hsk-book-audio-podcast-feed/releases/download/vocab-hsk-7-9h/vocab-hsk-7-9h-chapters.m4a" length="152617693" type="audio/mp4"/>
       <guid isPermaLink="false">vocab-hsk-7-9h-v1</guid>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-      <itunes:title>HSK 7-9 Vocabulary Part 8</itunes:title>
-      <itunes:summary>HSK 7-9 Vocabulary Part 8
+      <itunes:title>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 8 @HSKAnywhere</itunes:title>
+      <itunes:summary>HSK 7-9 | Chinese Vocabulary - Learn 5621 words with example sentences - Part 8 @HSKAnywhere
+
+Timestamps:
+0:00 Opening
+0:17 No. 4922 - No. 5000
+18:11 No. 5001 - No. 5100
+40:29 No. 5101 - No. 5200
+1:02:58 No. 5201 - No. 5300
+1:25:01 No. 5301 - No. 5400
+1:47:18 No. 5401 - No. 5500
+2:09:34 No. 5501 - No. 5621
+2:36:56 Ending
 
 Source: https://www.youtube.com/watch?v=5M8IUEOjVhs</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:duration>02:38:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>18</itunes:episode>
       <itunes:season>1</itunes:season>
+      <podcast:chapters url="https://jonathanjbutler.github.io/hsk-book-audio-podcast-feed/vocab-episodes/vocab-hsk-7-9h/chapters.json" type="application/json+chapters"/>
       <!-- Source: https://www.youtube.com/watch?v=5M8IUEOjVhs -->
     </item>
   </channel>

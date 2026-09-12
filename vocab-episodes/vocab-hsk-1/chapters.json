@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "No. 1 - No. 50"
+    },
+    {
+      "startTime": 521,
+      "title": "No. 51 - No. 100"
+    },
+    {
+      "startTime": 1037,
+      "title": "No. 101 - No. 153"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Opening"
+    },
+    {
+      "startTime": 17,
+      "title": "No. 1882 - No. 1900"
+    },
+    {
+      "startTime": 249,
+      "title": "No. 1901 - No. 2000"
+    },
+    {
+      "startTime": 1488,
+      "title": "No. 2001 - No. 2100"
+    },
+    {
+      "startTime": 2707,
+      "title": "No. 2101 - No. 2200"
+    },
+    {
+      "startTime": 3939,
+      "title": "No. 2201 - No. 2300"
+    },
+    {
+      "startTime": 5152,
+      "title": "No. 2301 - No. 2400"
+    },
+    {
+      "startTime": 6379,
+      "title": "No. 2401 - No. 2505"
+    },
+    {
+      "startTime": 7659,
+      "title": "Ending"
+    }
+  ]
+}

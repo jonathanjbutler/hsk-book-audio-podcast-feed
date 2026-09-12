@@ -1,0 +1,41 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Opening"
+    },
+    {
+      "startTime": 17,
+      "title": "No. 4922 - No. 5000"
+    },
+    {
+      "startTime": 1091,
+      "title": "No. 5001 - No. 5100"
+    },
+    {
+      "startTime": 2429,
+      "title": "No. 5101 - No. 5200"
+    },
+    {
+      "startTime": 3778,
+      "title": "No. 5201 - No. 5300"
+    },
+    {
+      "startTime": 5101,
+      "title": "No. 5301 - No. 5400"
+    },
+    {
+      "startTime": 6438,
+      "title": "No. 5401 - No. 5500"
+    },
+    {
+      "startTime": 7774,
+      "title": "No. 5501 - No. 5621"
+    },
+    {
+      "startTime": 9416,
+      "title": "Ending"
+    }
+  ]
+}
