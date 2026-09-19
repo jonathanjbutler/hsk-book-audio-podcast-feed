@@ -2,6 +2,9 @@
 audio/*.m4a
 audio/*.mp3
 audio/*.webm
+audio-vocab/*.m4a
+audio-vocab/*.mp3
+audio-vocab/*.webm
 
 # OS files
 .DS_Store
